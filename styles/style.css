@@ -32,7 +32,7 @@ body {
     padding-bottom: 20px;
 }
 
-.header__container::before {
+.header__container::after {
     content: "";
     position: absolute;
     bottom: 0;
